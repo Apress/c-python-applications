@@ -1,0 +1,21 @@
+a-Jones-37-accountant
+
+b-Smith-42-HR
+
+c-Allen-28-Secretary
+
+d-Bradley-26-Programmer
+
+e-Edwards-41-Programmer
+
+f-King-35-S/W engineer
+
+g-Price-39-H/W engineer
+
+h-Roberts-52-Manager
+
+i-Foster-44-Analyst
+
+j-Shannon-24-Programmer
+
+k-Lewis-27-Receptionist
